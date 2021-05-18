@@ -1,2 +1,2 @@
 # market_model
-Market model for transportation industry
+Market model for logistic industry
