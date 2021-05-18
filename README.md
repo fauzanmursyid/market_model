@@ -1,2 +1,2 @@
 # market_model
-Develop market model for expansion
+Market model for transportation industry
